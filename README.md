@@ -1,3 +1,4 @@
+![GitHub top language](https://img.shields.io/github/languages/top/JoaoFiorelli/ExerciciosCV)
 # ExerciciosCV
 Resolução da lista de exercícios sobre Python do Curso em Vídeo.
 
